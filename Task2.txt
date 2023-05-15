@@ -1,0 +1,7 @@
+Window Object==============>
+
+The window object represents a window/tab containing a DOM document.
+
+Document Object===============>
+Document object is property of window object that points to the DOM document loaded in that window. 
+You can access a document object either using window. document property or using document object directly as window is global object
